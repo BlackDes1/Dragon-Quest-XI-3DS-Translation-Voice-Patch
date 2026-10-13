@@ -4,10 +4,6 @@
 
 DQXI Mod Workshop builds the patch locally from your own Japanese 3DS CIA and a compatible Windows installation of **DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition**. The English installer prepares translated resources, converts PC voices and movies, and produces either a LayeredFS mod or a rebuilt CIA.
 
-**Current version:** v18 · `2026-10-13-compact-storage`  
-**Build platform:** Windows x64  
-**Intended playback targets:** Azahar and Nintendo 3DS systems using Luma3DS
-
 This is an unofficial community project. It does not include a complete game, a PC installation or the movie source files. The current package **does contain game-derived patch material**; see [Copyright and licensing](#copyright-and-licensing) before redistribution.
 
 ## Contents
@@ -38,8 +34,6 @@ This is an unofficial community project. It does not include a complete game, a 
 | Location artwork | Up to 28 location-title updates, applied only when the original file matches its expected hash |
 | Output | LayeredFS with the included code patch, or a reconstructed CIA |
 | Installer | English GUI, live progress, movie checkpoints and a button to open the finished output |
-
-The included `code.ips` is retained unchanged. You do not need the older seven-part mod archive or separate mod folders. Original CIA and PC installation files are read as inputs and are not overwritten.
 
 These counts describe the shipped build recipes and targets. They do not establish that every scene has been tested in an emulator or on a console.
 
