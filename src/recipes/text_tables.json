@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "tables": [
+    {
+      "name": "DT_TextDataDLCItem_00",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_00.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_00.uasset"
+    },
+    {
+      "name": "DT_TextDataDLCItem_01",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_01.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_01.uasset"
+    },
+    {
+      "name": "DT_TextDataDLCItem_02",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_02.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_02.uasset"
+    },
+    {
+      "name": "DT_TextDataDLCItem_03",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_03.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_03.uasset"
+    },
+    {
+      "name": "DT_TextDataDLCItem_04",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_04.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_04.uasset"
+    },
+    {
+      "name": "DT_TextDataDLCItem_05",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_05.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_05.uasset"
+    },
+    {
+      "name": "DT_TextDataDLCItem_06",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_06.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_06.uasset"
+    },
+    {
+      "name": "DT_TextDataDLCItem_07",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_07.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_07.uasset"
+    },
+    {
+      "name": "DT_TextDataDLCItem_08",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_08.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_08.uasset"
+    },
+    {
+      "name": "DT_TextDataDLCItem_09",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Item/DT_TextDataDLCItem_09.uasset",
+      "japanese": "JackGame/Content/DataTables/Item/DT_TextDataDLCItem_09.uasset"
+    },
+    {
+      "name": "DT_TextDataBattle",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextDataBattle.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextDataBattle.uasset"
+    },
+    {
+      "name": "DT_TextDataFukidasi",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextDataFukidasi.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextDataFukidasi.uasset"
+    },
+    {
+      "name": "DT_TextDataGame",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextDataGame.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextDataGame.uasset"
+    },
+    {
+      "name": "DT_TextDataGuide",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextDataGuide.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextDataGuide.uasset"
+    },
+    {
+      "name": "DT_TextDataLocalization",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextDataLocalization.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextDataLocalization.uasset"
+    },
+    {
+      "name": "DT_TextDataMenu",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextDataMenu.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextDataMenu.uasset"
+    },
+    {
+      "name": "DT_TextDataMiniGame",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextDataMiniGame.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextDataMiniGame.uasset"
+    },
+    {
+      "name": "DT_TextDataSystem",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextDataSystem.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextDataSystem.uasset"
+    },
+    {
+      "name": "DT_TextDataTest",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextDataTest.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextDataTest.uasset"
+    },
+    {
+      "name": "DT_TextPackBattle",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextPackBattle.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextPackBattle.uasset"
+    },
+    {
+      "name": "DT_TextPackCommon",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextPackCommon.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextPackCommon.uasset"
+    },
+    {
+      "name": "DT_TextPackItem",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextPackItem.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextPackItem.uasset"
+    },
+    {
+      "name": "DT_TextPackLocalization",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextPackLocalization.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextPackLocalization.uasset"
+    },
+    {
+      "name": "DT_TextPackMiniGame",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextPackMiniGame.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextPackMiniGame.uasset"
+    },
+    {
+      "name": "DT_TextPackPlatform",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextPackPlatform.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextPackPlatform.uasset"
+    },
+    {
+      "name": "DT_TextPackUI",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextPackUI.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextPackUI.uasset"
+    },
+    {
+      "name": "DT_TextSetCasinoCoin",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextSetCasinoCoin.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextSetCasinoCoin.uasset"
+    },
+    {
+      "name": "DT_TextSetGinkou",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextSetGinkou.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextSetGinkou.uasset"
+    },
+    {
+      "name": "DT_TextSetKyoukai",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextSetKyoukai.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextSetKyoukai.uasset"
+    },
+    {
+      "name": "DT_TextSetMedal",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextSetMedal.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextSetMedal.uasset"
+    },
+    {
+      "name": "DT_TextSetShop",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextSetShop.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextSetShop.uasset"
+    },
+    {
+      "name": "DT_TextSetYadoya",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/DataTables/Text/DT_TextSetYadoya.uasset",
+      "japanese": "JackGame/Content/DataTables/Text/DT_TextSetYadoya.uasset"
+    },
+    {
+      "name": "DT_TextPackScenario",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/Scenario/DT_TextPackScenario.uasset",
+      "japanese": "JackGame/Content/Scenario/DT_TextPackScenario.uasset"
+    },
+    {
+      "name": "DT_TextSerifuCS",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/Scenario/DT_TextSerifuCS.uasset",
+      "japanese": "JackGame/Content/Scenario/DT_TextSerifuCS.uasset"
+    },
+    {
+      "name": "DT_TextSerifuFukidasiIE",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/Scenario/DT_TextSerifuFukidasiIE.uasset",
+      "japanese": "JackGame/Content/Scenario/DT_TextSerifuFukidasiIE.uasset"
+    },
+    {
+      "name": "DT_TextSerifuIE",
+      "chunk": "pakchunk0-WindowsNoEditor",
+      "english": "JackGame/Content/L10N/en/Scenario/DT_TextSerifuIE.uasset",
+      "japanese": "JackGame/Content/Scenario/DT_TextSerifuIE.uasset"
+    }
+  ]
+}
