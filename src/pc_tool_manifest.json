@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "python": {
+    "version": "3.13.16",
+    "url": "https://www.python.org/ftp/python/3.13.16/python-3.13.16-embed-amd64.zip",
+    "archive_sha256": "97dae5274cc54867065e8d5a3226e48c35017ed332a0fdb0e27d5b5821961297",
+    "files": [
+      {
+        "path": "python.exe",
+        "sha256": "31fe10b4ed82a2f960af0ef9931f46a4b84ff286f8b6ffd9dee098cf4f10f17f"
+      },
+      {
+        "path": "pythonw.exe",
+        "sha256": "435e222945e1a110559fb71b5ebff8c3d698689b5e5eee0371815c1141d72738"
+      },
+      {
+        "path": "python313.dll",
+        "sha256": "3b29bf9ff39bed8f660f5b935f19657f7ce7f145009851741b11364f6ebcb862"
+      },
+      {
+        "path": "python3.dll",
+        "sha256": "a1a32b2475675e784d9b34d33d3a8f3e4afaa563da1feb784b0dd69fc4d8f9dc"
+      },
+      {
+        "path": "vcruntime140.dll",
+        "sha256": "d1f4225df2cd877dbf130d5668a021dce3f94118455ff5ec952061c30afc9ce7"
+      },
+      {
+        "path": "vcruntime140_1.dll",
+        "sha256": "a7146c08f89fe5b04541ab507cdb59ff7b44534d4ba3c668a426c6450a03434e"
+      },
+      {
+        "path": "LICENSE.txt",
+        "sha256": "62bec384df47b0328307db41455ff6ea2559e5546b394ac69148561b21703120"
+      },
+      {
+        "path": "pyexpat.pyd",
+        "sha256": "3865fae84ff0f274c049e737731cd8aa184fae208af5b4c0d0cfc42a38f79cea"
+      },
+      {
+        "path": "select.pyd",
+        "sha256": "17df388a7aa42e7f066b80aa4f77cbbba9286495e6f3508425806be6766d122b"
+      },
+      {
+        "path": "unicodedata.pyd",
+        "sha256": "d113047658f92d893bf4ee2da81ffbd624ec5c485733c02e116fac1b9a1b964c"
+      },
+      {
+        "path": "winsound.pyd",
+        "sha256": "8450de54438b1698556b794400c3114b78ede8c10b13dcf263d646ef639ae7d1"
+      },
+      {
+        "path": "_asyncio.pyd",
+        "sha256": "6654dfbf4cc92609801f35022acaddd3fc19e6c777b7771b0f0a68f5813889a8"
+      },
+      {
+        "path": "_bz2.pyd",
+        "sha256": "6da4d453852346299e983b458f3ec2f0db3b5f765998ba3f45c91b4a1549037b"
+      },
+      {
+        "path": "_ctypes.pyd",
+        "sha256": "5bcddf4c374c4d247e1e4a61f3347159c36c5785fe43bdae11a4e6c9ea2c0166"
+      },
+      {
+        "path": "_decimal.pyd",
+        "sha256": "eeb278dfbdb305bb5af916ed79e878943e25dc4bd6e99ec17abb7b3fd9f935d5"
+      },
+      {
+        "path": "_elementtree.pyd",
+        "sha256": "34968e3aebdb3e89cb1472b75b04986ce1bbf27d290f4154d77649cc17c41fab"
+      },
+      {
+        "path": "_hashlib.pyd",
+        "sha256": "4d3eb9d9492d626c7bb10cfe5ab233a9195ec7b27e92b465b287e7a24fc8266c"
+      },
+      {
+        "path": "_lzma.pyd",
+        "sha256": "2b4dcb12c0420ffced4b91968ae4eff6cb585f0f07490160c6da47da63064a99"
+      },
+      {
+        "path": "_multiprocessing.pyd",
+        "sha256": "5017bb9dd0d5ab6d7c0f007763d7906d33464f0b436ac6577f1f4fffd5c98986"
+      },
+      {
+        "path": "_overlapped.pyd",
+        "sha256": "3f393b2ce1fe5973fc45e49dffcf51405fa875cdb284cf96b2f0d4b93b08765c"
+      },
+      {
+        "path": "_queue.pyd",
+        "sha256": "79c196a0804b152fc48b4055387f4352838e41c28863a0c946e7a98137e681e1"
+      },
+      {
+        "path": "_socket.pyd",
+        "sha256": "c5936292083189e0675a96ddd0e38235726f1c58195cec64eb0085b9c479ddce"
+      },
+      {
+        "path": "_sqlite3.pyd",
+        "sha256": "95d5b99f696cb33550534e8be80d31003db8b8a27062dfd6b09fdba4bb92f812"
+      },
+      {
+        "path": "_ssl.pyd",
+        "sha256": "30ff82a3ea0c675ddc99e6b14f71ca750f06e77d6653e2da3d7d35b7ef0fc2ed"
+      },
+      {
+        "path": "_uuid.pyd",
+        "sha256": "0d6fcf704721d4bae58cc754b15a3f8c36907b718874f6d7cbbaa363a14618b1"
+      },
+      {
+        "path": "_wmi.pyd",
+        "sha256": "f88c322f871aef92de562278bd25c34c6e758642669d5512a22ed972840317b1"
+      },
+      {
+        "path": "_zoneinfo.pyd",
+        "sha256": "b687deba154399bf6e44963e46abff518c3f987ae4fde087a3c891a1a1f08fdd"
+      },
+      {
+        "path": "libcrypto-3.dll",
+        "sha256": "75495fe0e079ab00d49be740d3c710a0b94e3f74f9648cb7cc9f768fc7f52319"
+      },
+      {
+        "path": "libffi-8.dll",
+        "sha256": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a"
+      },
+      {
+        "path": "libssl-3.dll",
+        "sha256": "8957182a9c385bfd9f3f790921de2ddc614cf91f99edbed4e9e5446a46504e32"
+      },
+      {
+        "path": "sqlite3.dll",
+        "sha256": "2e3cf1b96e8afc679ee8bd69d6bde3aeb797b48b297b9cafd0eb9fd578eaafb5"
+      },
+      {
+        "path": "python313.zip",
+        "sha256": "33c48dd2c3031d27784950aaee96d3d65f916e3c43dd3637ace333a7b9e8021a"
+      },
+      {
+        "path": "python.cat",
+        "sha256": "297a28dea041bad442aca6d7cb92957627501870e3c5cb7c642afb83563ee9c1"
+      }
+    ]
+  },
+  "vgmstream": {
+    "version": "r2117",
+    "url": "https://github.com/vgmstream/vgmstream/releases/download/r2117/vgmstream-win64.zip",
+    "archive_sha256": "6c4a8a3813864fefed081bbd337dbc0ad93bf88e0b92f5db98d7ab258b22dc6c",
+    "files": [
+      {
+        "path": "avformat-vgmstream-59.dll",
+        "sha256": "0dde66ea268cccb67b1aa219c1ce879602b839e561a79a00c8215e2688f1a4b2"
+      },
+      {
+        "path": "avcodec-vgmstream-59.dll",
+        "sha256": "4d6cf54e7b3c26ef06e95bdb515a10d1e1bed3ec1ffd87ec3e5c4fbcd2a883f6"
+      },
+      {
+        "path": "avutil-vgmstream-57.dll",
+        "sha256": "a999856c17cfdce3c22b92b6640a7ada6c4ab4c3c6841a863770b72fa0bc19b4"
+      },
+      {
+        "path": "COPYING",
+        "sha256": "fcc26d35c4c4365e31f21734f846e4ee362ff0b57ba696085605a7b4768d8763"
+      },
+      {
+        "path": "libatrac9.dll",
+        "sha256": "fe82f1ae13a798337e03942c35351997c23caadb5eb0c6b7a2dc2a521ed8b02e"
+      },
+      {
+        "path": "libcelt-0061.dll",
+        "sha256": "542254723d9100f91cbf18e41c4aff80287c22a9859e9e545c413d984df440ad"
+      },
+      {
+        "path": "libcelt-0110.dll",
+        "sha256": "bfcc51d865bb3b6a2793381bf535f23ec423feb722b46333fa8556ccdcafa61a"
+      },
+      {
+        "path": "libg719_decode.dll",
+        "sha256": "aad61f205ce1f1b61285f6b37b90a331ec8c6ae2f94f361714dc21a12c236960"
+      },
+      {
+        "path": "libmpg123-0.dll",
+        "sha256": "db9eb1d91b8eb9f47b0968201dbf6c51a9627e539a78afd9ad5f59c5d18fe4df"
+      },
+      {
+        "path": "libspeex-1.dll",
+        "sha256": "04dbc85fcec6c54671535bf39937a70f2dd040a81ad670a0b84de6ca17b39bff"
+      },
+      {
+        "path": "libvorbis.dll",
+        "sha256": "5f330a20b19b3c70dc43eedcc95891e65940fca04a77155c573efcdd4c2ca665"
+      },
+      {
+        "path": "README.md",
+        "sha256": "1357f0d7f92461a094177e4686a90f42d64a05bec9ca0abb12bc08c181a1b7b8"
+      },
+      {
+        "path": "USAGE.md",
+        "sha256": "47d224e72ce3ff84569f65fe67d516b69feb81e9ec737f1570200e2b1ba7c38e"
+      },
+      {
+        "path": "swresample-vgmstream-4.dll",
+        "sha256": "688a81d31ef98a9a6143e1075b2f4c5b79bdfa51e7a14d50d662a0e916dac739"
+      },
+      {
+        "path": "vgmstream-cli.exe",
+        "sha256": "29df08c557ada8269c92a6abfe3886ad2f65849b0b26ba78a0819b363bbc5b85"
+      }
+    ]
+  },
+  "mobipeg": {
+    "version": "2.3",
+    "url": "https://github.com/quatric/mobipeg/releases/download/v2.3/mobipeg-windows-x86_64.zip",
+    "archive_sha256": "9f15c9f7359be362ae8704ee0a0d6fc8046162311eefe471f3466ebf4530831b",
+    "files": [
+      {
+        "path": "ffmpeg.exe",
+        "sha256": "bd3baba1920b56cf0d4c7c2d304d784f1e7e3669190c2f87ac905a92a9565857"
+      },
+      {
+        "path": "ffprobe.exe",
+        "sha256": "9bbe83b778994d7aa8fa088db7d7f7be39eb91c967c845ef85c70bb16a2f81ba"
+      }
+    ]
+  }
+}

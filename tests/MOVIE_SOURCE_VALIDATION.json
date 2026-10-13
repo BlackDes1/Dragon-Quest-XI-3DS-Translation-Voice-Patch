@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "verification_date": "2026-10-12",
+  "exact_uploaded_failure_reproduced": true,
+  "previous_unresolved_intro_assets": 18,
+  "regular_bank_aliases_excluded_by_old_resolver": true,
+  "intro_bank_omitted_by_old_extraction_manifest": "SWAV_VO_A_010_CS_020.uexp",
+  "actual_pc_banks_parsed": 8,
+  "unique_movie_voice_assets_resolved": 150,
+  "active_events_matching_previous_movie_recipes": 148,
+  "total_movie_events": 150,
+  "real_bank_identity_and_subsong_matches_previous_build": true,
+  "source_banks": [
+    {
+      "path": "JackGame/Content/Sounds/Voice_NE/CS/VO_A_010_CS_010/SWAV_VO_A_010_CS_010.uexp",
+      "sha256": "7e5962db953136236b14d0fd12246aeb1f20a4b306e0b02bdf756423ce251431",
+      "streams": 17
+    },
+    {
+      "path": "JackGame/Content/Sounds/Voice_NE/CS/VO_A_010_CS_030/SWAV_VO_A_010_CS_030.uexp",
+      "sha256": "b9b392e33c4af5cb96bbdb74ab0025571918e644b861a3e09eaa74d991f7d15d",
+      "streams": 34
+    },
+    {
+      "path": "Sounds/Voice_NE/CS/VO_A_180_CS_100/SWAV_VO_A_180_CS_100.uexp",
+      "sha256": "b4244aa12d1eb299ee720a3c90ba4216166871c4143fccf30b478ed184fa6fa6",
+      "streams": 31
+    },
+    {
+      "path": "Sounds/Voice_NE/CS/VO_B_160_CS_090/SWAV_VO_B_160_CS_090.uexp",
+      "sha256": "11c0d52c04ad8374d4e37239f79ff1aecb4ca44ffe43f162d49bacb57205d15a",
+      "streams": 24
+    },
+    {
+      "path": "Sounds/Voice_NE/CS/VO_C_010_CS_120/SWAV_VO_C_010_CS_120.uexp",
+      "sha256": "33f1358a8e64d87501c233e25796852168bb07aee98e8da9ed2a18082a6d9b51",
+      "streams": 5
+    },
+    {
+      "path": "Sounds/Voice_NE/CS/VO_C_300_CS_030/SWAV_VO_C_300_CS_030.uexp",
+      "sha256": "3985aff32370ec53ee5516c29ba83dcc86eb81268a8d8a4711ff83c1398115c6",
+      "streams": 69
+    },
+    {
+      "path": "Sounds/Voice_NE/CS/VO_C_300_CS_050/SWAV_VO_C_300_CS_050.uexp",
+      "sha256": "5541bee7aa34f1c7cd8fcef7728c7ba6965a849fbc97c689e6796f4b85e7466f",
+      "streams": 4
+    },
+    {
+      "path": "JackGame/Content/Sounds/Voice_NE/CS/VO_A_010_CS_020/SWAV_VO_A_010_CS_020.uexp",
+      "sha256": "3f19212e086c9350bb41c00dc1d1b4392ffdedc7ccef4199efae838395b1ed54",
+      "streams": 13
+    }
+  ],
+  "test_scope": "Actual recovered PC SAB parsing and all previous movie voice assignments. The old failure was reproduced with actual SAB data and synthetic PCM decoder output. This audit does not claim a Windows end-to-end movie encode.",
+  "source_media_bundled": false,
+  "resolver_pcm_profile_flow_verified": 150,
+  "synthetic_pcm_used_for_flow_test": true,
+  "all_movie_event_time_limits_verified": true,
+  "silent_placeholders_verified": [
+    "C300CS030_S01200",
+    "C300CS030_S01300"
+  ]
+}

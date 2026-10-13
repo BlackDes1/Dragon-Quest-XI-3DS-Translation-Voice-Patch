@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "tools": [
+    {
+      "name": "rom-converto",
+      "version": "0.23.2",
+      "url": "https://github.com/DevYukine/rom-converto/releases/download/v0.23.2/rom-converto-cli-windows-x64.exe",
+      "download_format": "executable",
+      "runtime_tool": "vcruntime",
+      "archive_sha256": "ce57dc4332681adbda1e17d540eb88427379612ba162237d8a7db1b0af694b04",
+      "exe_sha256": "ce57dc4332681adbda1e17d540eb88427379612ba162237d8a7db1b0af694b04",
+      "executable": "rom-converto-cli-windows-x64.exe"
+    },
+    {
+      "name": "vcruntime",
+      "version": "14.0.33321.0-x64",
+      "url": "https://download.microsoft.com/download/4/7/c/47c6134b-d61f-4024-83bd-b9c9ea951c25/Microsoft.VCLibs.x64.14.00.Desktop.appx",
+      "archive_sha256": "b56a9101f706f9d95f815f5b7fa6efbac972e86573d378b96a07cff5540c5961",
+      "exe_sha256": "6fdc2c6fc1362c317ed65ae331dda329d4d03826feb8d79d635eaf8ba49764bc",
+      "executable": "msvcp140.dll",
+      "companion_files": [
+        {"filename": "vcruntime140.dll", "sha256": "d5a99b38807c3df803876ce5f1e71dc43cd7ac2c882582387e550941bc99cd00"},
+        {"filename": "vcruntime140_1.dll", "sha256": "68f948ea61695f85ff24d249077e312abb23267b3adc43679d35d781e9aa0244"}
+      ]
+    },
+    {
+      "name": "ctrtool",
+      "version": "1.3.0",
+      "url": "https://github.com/3DSGuy/Project_CTR/releases/download/ctrtool-v1.3.0/ctrtool-v1.3.0-win_x64.zip",
+      "archive_sha256": "8031dff3be72d0adb250fae1f969f27627e12a89ebc6dd074a15a75f87ddc949",
+      "exe_sha256": "79021f283b2199950eb22cf3c459806b9c8aaaf68f65c80100107d3454a1c224",
+      "executable": "ctrtool.exe"
+    },
+    {
+      "name": "3dstool",
+      "version": "1.2.6",
+      "url": "https://github.com/dnasdw/3dstool/releases/download/v1.2.6/3dstool.zip",
+      "archive_sha256": "481e20f445eb2f0f506d0d88cd750385bc8377670d681d6f66f584a176027806",
+      "exe_sha256": "967fd5ec6476df1fa6a01da0df5a1fea339aa488c10be218d38e07f4b8143b7e",
+      "executable": "3dstool.exe",
+      "companion_files": [
+        {
+          "filename": "ext_key.txt",
+          "sha256": "f47720b3d86c6ce9c0d0c8a03e1a3599c5df377fcd22fd035121b64a78c1b51f"
+        }
+      ]
+    },
+    {
+      "name": "makerom",
+      "version": "0.18.4",
+      "url": "https://github.com/3DSGuy/Project_CTR/releases/download/makerom-v0.18.4/makerom-v0.18.4-win_x86_64.zip",
+      "archive_sha256": "d743507dc66d4c6f8efcce05ff8f5f47163a60e54e0e0c57fa12ec2f54acdf2f",
+      "exe_sha256": "db810fb9c3d41ecaefa8fcbd13140ecafe9b95e6303cd9244c12a2bca70fa938",
+      "executable": "makerom.exe"
+    }
+  ]
+}

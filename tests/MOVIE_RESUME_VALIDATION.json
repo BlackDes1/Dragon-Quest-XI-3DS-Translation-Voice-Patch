@@ -1,0 +1,49 @@
+{
+  "revision": "2026-10-13-retrospective-resume",
+  "base": "DQXI-Mod-Werkstatt-v18, saved archive version 15",
+  "failure_reproduced": "Retrospective edit frame map failed validation",
+  "cause": "The caller passed only the retrospective edit map; the callee read retrospective_frame_counts from that nested map and always compared to -1.",
+  "fix": "Pass expected_frames explicitly and validate all three cut maps before source decoding or encoding.",
+  "audio_fix": "Finish encoding at the exact duration, without a separate video-frame termination limit. Full decoded video frame count remains mandatory.",
+  "source_checks_from_supplied_logs": {
+    "voice_index_complete": true,
+    "decoded_streams": 150,
+    "banks": 8,
+    "silent_assets": ["C300CS030_S01200", "C300CS030_S01300"]
+  },
+  "automated_tests": {
+    "command": "PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -p '*_tests.py' -v",
+    "run": 80,
+    "passed": 79,
+    "skipped": 1,
+    "failed": 0,
+    "skip_reason": "Optional independent gameplay audio decoder was not supplied.",
+    "new_coverage": [
+      "All retrospective cut maps and caller/callee frame-count contract",
+      "Invalid retrospective plans fail before any movie encoding",
+      "Successful movie checkpoints survive a later movie failure",
+      "Retry reuses completed checksum-verified movies",
+      "Corrupt files or missing full-decode evidence force rebuilding",
+      "Changed ending source invalidates ending and retrospective movies",
+      "Changed retrospective edits retain unaffected direct movie checkpoints",
+      "Resume validates existing CIA/PC exports and actual synthetic BCSTM voices",
+      "Resume rejects changed CIA selection, missing new extraction assets, truncated voices, changed ROMFS sizes and incomplete scene exports",
+      "Complete movie package reuse verifies output and PC source checksums"
+    ]
+  },
+  "static_audits_passed": ["source_audit.py", "installer_audit.py", "pc_extract_audit.py", "luma_fix_audit.py", "code_ips_audit.py"],
+  "real_ffmpeg_check": {
+    "report": "retrospective-ffmpeg-report.json",
+    "ffmpeg_version": "6.1.1",
+    "source": "800-second synthetic FFV1 video at 359/12 fps, four audio streams",
+    "movies": {"MOVIE_001_retimed_title": 4392, "MOVIE_007": 2005, "MOVIE_008": 2163, "MOVIE_009": 2592},
+    "all_frame_counts_and_audio_lengths_passed": true,
+    "output": "FFV1/PCM intermediate, 400x224, stereo 48000 Hz"
+  },
+  "resume_scope": "Builds stopped before Mod/cia assembly. Reuses verified CIA/PC exports and completed gameplay voices; preserves newly verified movie checkpoints.",
+  "previous_deleted_movies_recoverable": false,
+  "windows_installer_executed": false,
+  "windows_mobipeg_end_to_end_tested": false,
+  "actual_game_movie_sources_encoded_in_authoring_environment": false,
+  "emulator_or_hardware_gameplay_tested": false
+}

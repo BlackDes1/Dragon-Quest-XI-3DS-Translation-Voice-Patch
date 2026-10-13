@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "fps": "359/12",
+  "width": 400,
+  "height": 224,
+  "credits_suffix_start_seconds": 300.333667,
+  "movies": [
+    {"number": 1, "frames": 4392, "source": "Game/Content/Movies/A_020/TitleMovie/MT_Cs_A020TitleMovie_C01_E.usm", "pc_seconds": 148.715, "scene_map": null, "retime": true},
+    {"number": 2, "frames": 7059, "source": "Game/Content/Movies/A_010/CS_010/MT_Cs_A010010_C01x_E.usm", "pc_seconds": 235.868, "scene_map": "Title_CS_A010_010.umap", "retime": false, "skip_caption_ids": ["A010CS030_S00100", "A010CS030_S00200", "A010CS030_S00300", "A010CS030_S00400", "A010CS030_S00500"]},
+    {"number": 3, "frames": 4686, "source": "Game/Content/Movies/A_180/CS_100/MT_Cs_A180100_C01x_E.usm", "pc_seconds": 156.756, "scene_map": "S14_CS_A180_100.umap", "retime": false},
+    {"number": 4, "frames": 3408, "source": "Game/Content/Movies/B_160/CS_090/MT_Cs_B160090_C01x_E.usm", "pc_seconds": 114.013, "scene_map": "D17_CS_B160_090.umap", "retime": false},
+    {"number": 5, "frames": 1657, "source": "Game/Content/Movies/C_010/CS_120/MT_Cs_C010120_C01x_E.usm", "pc_seconds": 55.455, "scene_map": "C01_01_CS_C010_120.umap", "retime": false},
+    {"number": 6, "frames": 8824, "source": "Game/Content/Movies/C_300/CS_030/MT_Cs_C300030_C01x_E.usm", "pc_seconds": 294.952646, "scene_map": "S14_CS_C300_030.umap", "retime": false},
+    {"number": 10, "frames": 1942, "source": "Game/Content/Movies/C_300/CS_050/MT_Cs_C300050_C01x_E.usm", "pc_seconds": 64.964875, "scene_map": "S14_CS_C300_050.umap", "retime": false}
+  ],
+  "retrospectives": {
+    "7": [["I", 38, 120, 48, 549], ["II", 87, 120, 96, 548], ["III", 125, 120, 138, 548]],
+    "8": [["IV", 171, 90, 180, 631], ["V", 212.5, 90, 218.5, 631], ["VI", 242, 90, 251, 631]],
+    "9": [["VII", 292, 120, 299, 528], ["VIII", 323, 120, 339, 528], ["IX", 371, 120, 384, 528], ["X", 425, 120, 441, 528]]
+  },
+  "retrospective_frame_counts": {"7": 2005, "8": 2163, "9": 2592}
+}

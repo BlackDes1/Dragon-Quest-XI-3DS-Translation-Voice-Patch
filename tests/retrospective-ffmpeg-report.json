@@ -1,0 +1,49 @@
+{
+  "test": "production retrospective filter graphs and optional retimed title",
+  "source": "synthetic video/audio",
+  "intermediate": "FFV1 / PCM stereo; not MOFLEX",
+  "windows_mobipeg_tested": false,
+  "complete": true,
+  "results": [
+    {
+      "movie": "MOVIE_007.moflex",
+      "decoded_frames": 2005,
+      "fps": "359/12",
+      "audio_samples": 3216936,
+      "audio_sample_rate": 48000,
+      "audio_channels": 2,
+      "expected_seconds": 67.01949860724234,
+      "passed": true
+    },
+    {
+      "movie": "MOVIE_008.moflex",
+      "decoded_frames": 2163,
+      "fps": "359/12",
+      "audio_samples": 3470440,
+      "audio_sample_rate": 48000,
+      "audio_channels": 2,
+      "expected_seconds": 72.3008356545961,
+      "passed": true
+    },
+    {
+      "movie": "MOVIE_009.moflex",
+      "decoded_frames": 2592,
+      "fps": "359/12",
+      "audio_samples": 4158752,
+      "audio_sample_rate": 48000,
+      "audio_channels": 2,
+      "expected_seconds": 86.64066852367688,
+      "passed": true
+    },
+    {
+      "movie": "MOVIE_001.moflex",
+      "decoded_frames": 4392,
+      "fps": "359/12",
+      "audio_samples": 7046774,
+      "audio_sample_rate": 48000,
+      "audio_channels": 2,
+      "expected_seconds": 146.80779944289694,
+      "passed": true
+    }
+  ]
+}

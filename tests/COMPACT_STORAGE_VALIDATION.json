@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "revision": "2026-10-13-compact-storage",
+  "base": "Working v18 archive, saved version 16; user reported that the installer works.",
+  "changes": [
+    "Reuse the prepared original CIA export for reconstruction instead of a second extraction.",
+    "Release owned encrypted copies and ROMFS/NCCH intermediates between successful stages.",
+    "Replace the staged ROMFS tree during readback with a complete exact-path/SHA-256 snapshot.",
+    "Release per-movie mix/track WAVs after successful full decoding while retaining logs and movie checkpoints.",
+    "Hard-link generated voices/movies where supported; verify fallback copies.",
+    "Release PC exports after verified mod assembly and retain only the chosen final output after full verification.",
+    "Preserve metadata reports and support compact-build completion-data summaries.",
+    "Add Open finished output, enabled only after successful completion and output-path validation.",
+    "Allow advanced scripts to retain intermediates with KeepIntermediate."
+  ],
+  "python_tests": {
+    "run": 93,
+    "passed": 92,
+    "skipped": 1,
+    "failed": 0,
+    "command": "PYTHONDONTWRITEBYTECODE=1 python -m unittest discover -s tests -p '*_tests.py'",
+    "skip_reason": "Optional independent gameplay audio decoder was not supplied."
+  },
+  "native_csharp_tests": {
+    "compiler": "Mono 6.8.0.105, C# language version 5",
+    "backend_compilation_passed": true,
+    "storage_checks": 10,
+    "cia_source_checks": 28,
+    "codec_checks": 44,
+    "total_passed": 82,
+    "windows_tools_executed": false
+  },
+  "static_audits_passed": [
+    "source_audit.py",
+    "installer_audit.py",
+    "pc_extract_audit.py",
+    "luma_fix_audit.py",
+    "code_ips_audit.py"
+  ],
+  "syntax_parser": {
+    "files": 29,
+    "parsed_without_errors": 26,
+    "changed_files_with_errors": 0,
+    "unchanged_baseline_grammar_limitations": [
+      "src/Common.ps1",
+      "src/Get-3DSBuildTools.ps1",
+      "src/Get-PCBuildTools.ps1"
+    ],
+    "note": "Tree-sitter is a syntax check, not execution by Windows PowerShell 5.1."
+  },
+  "unchanged_payload_and_recipe_files": 363,
+  "code_ips_sha256": "41c57f46acaac44679a22ac1bf3fdfceb70a2a11c35bf287b3930c9da664bcbf",
+  "converter_fingerprints_unchanged": true,
+  "converter_fingerprints": {
+    "direct": "c95d33a849f1430317e5f4b2c1e932da947d592c040c0fb3623aea74f7ecb4b3",
+    "retrospective": "a9071551c26ab731ece7b4b92bc48ec54a93a769d91130f7c9f570b3d967f8e6"
+  },
+  "tool_manifests_unchanged": true,
+  "cleanup_tests": "Byte-identical finished output; corrupt/incomplete successors block cleanup; external linked paths rejected before deletion; cross-filesystem copy fallback checked.",
+  "ctrtool_tmd_export_reference": "https://github.com/3DSGuy/Project_CTR/blob/ctrtool-v1.3.0/ctrtool/src/CiaProcess.cpp (raw original TMD substream export, lines 729-740)",
+  "windows_gui_executed": false,
+  "new_windows_end_to_end_build_executed": false,
+  "actual_game_movie_sources_encoded_in_authoring_environment": false,
+  "emulator_or_hardware_gameplay_tested": false,
+  "measured_windows_peak_storage_gb": null,
+  "storage_measurement_note": "Removed logical file bytes are reported; hard links do not imply equal physical free-space recovery. No exact real-game peak-storage reduction is claimed."
+}

@@ -1,0 +1,3147 @@
+{
+  "note": "Identifiers, timing and measured stream profiles only; no game text or audio payload.",
+  "banks": [
+    {
+      "source": {
+        "chunk": "pakchunk0-WindowsNoEditor",
+        "path": "JackGame/Content/Sounds/Voice_NE/CS/VO_A_010_CS_010/SWAV_VO_A_010_CS_010.uexp",
+        "kind": "voice",
+        "language": "en"
+      },
+      "bank_sha256": "7e5962db953136236b14d0fd12246aeb1f20a4b306e0b02bdf756423ce251431",
+      "streams": [
+        {
+          "subsong": 1,
+          "material_index": 0,
+          "samples": 2164545,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_LOC0074_00_a0"
+          ]
+        },
+        {
+          "subsong": 2,
+          "material_index": 1,
+          "samples": 363077,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_LOC0098_00_a0"
+          ]
+        },
+        {
+          "subsong": 3,
+          "material_index": 2,
+          "samples": 154217,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_LOC0099_00_a0"
+          ]
+        },
+        {
+          "subsong": 4,
+          "material_index": 3,
+          "samples": 168290,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_LOC0100_00_a0"
+          ]
+        },
+        {
+          "subsong": 5,
+          "material_index": 4,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 6,
+          "material_index": 5,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 7,
+          "material_index": 6,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 8,
+          "material_index": 7,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 9,
+          "material_index": 8,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 10,
+          "material_index": 9,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 11,
+          "material_index": 10,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 12,
+          "material_index": 11,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 13,
+          "material_index": 12,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 14,
+          "material_index": 13,
+          "samples": 62251,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_S00000"
+          ]
+        },
+        {
+          "subsong": 15,
+          "material_index": 14,
+          "samples": 49743,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_S00100"
+          ]
+        },
+        {
+          "subsong": 16,
+          "material_index": 15,
+          "samples": 65302,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_S00200"
+          ]
+        },
+        {
+          "subsong": 17,
+          "material_index": 16,
+          "samples": 64655,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_S00300"
+          ]
+        }
+      ]
+    },
+    {
+      "source": {
+        "chunk": "pakchunk0-WindowsNoEditor",
+        "path": "JackGame/Content/Sounds/Voice_NE/CS/VO_A_010_CS_030/SWAV_VO_A_010_CS_030.uexp",
+        "kind": "voice",
+        "language": "en"
+      },
+      "bank_sha256": "b9b392e33c4af5cb96bbdb74ab0025571918e644b861a3e09eaa74d991f7d15d",
+      "streams": [
+        {
+          "subsong": 1,
+          "material_index": 0,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 2,
+          "material_index": 1,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 3,
+          "material_index": 2,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 4,
+          "material_index": 3,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 5,
+          "material_index": 4,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 6,
+          "material_index": 5,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 7,
+          "material_index": 6,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 8,
+          "material_index": 7,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 9,
+          "material_index": 8,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 10,
+          "material_index": 9,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 11,
+          "material_index": 10,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 12,
+          "material_index": 11,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 13,
+          "material_index": 12,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 14,
+          "material_index": 13,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 15,
+          "material_index": 14,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 16,
+          "material_index": 15,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 17,
+          "material_index": 16,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 18,
+          "material_index": 17,
+          "samples": 546962,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_E00000_UN00002_01_a0"
+          ]
+        },
+        {
+          "subsong": 19,
+          "material_index": 18,
+          "samples": 631691,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_E00000_UN00002_02_a0"
+          ]
+        },
+        {
+          "subsong": 20,
+          "material_index": 19,
+          "samples": 29523,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_E00000_UN00018_00_a0"
+          ]
+        },
+        {
+          "subsong": 21,
+          "material_index": 20,
+          "samples": 31601,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00000"
+          ]
+        },
+        {
+          "subsong": 22,
+          "material_index": 21,
+          "samples": 10964,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00100"
+          ]
+        },
+        {
+          "subsong": 23,
+          "material_index": 22,
+          "samples": 10964,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00500"
+          ]
+        },
+        {
+          "subsong": 24,
+          "material_index": 23,
+          "samples": 123908,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00600"
+          ]
+        },
+        {
+          "subsong": 25,
+          "material_index": 24,
+          "samples": 40006,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00700"
+          ]
+        },
+        {
+          "subsong": 26,
+          "material_index": 25,
+          "samples": 96906,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00800"
+          ]
+        },
+        {
+          "subsong": 27,
+          "material_index": 26,
+          "samples": 120808,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00900"
+          ]
+        },
+        {
+          "subsong": 28,
+          "material_index": 27,
+          "samples": 170328,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S01000"
+          ]
+        },
+        {
+          "subsong": 29,
+          "material_index": 28,
+          "samples": 123120,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S01100"
+          ]
+        },
+        {
+          "subsong": 30,
+          "material_index": 29,
+          "samples": 10964,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00200"
+          ]
+        },
+        {
+          "subsong": 31,
+          "material_index": 30,
+          "samples": 10964,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00300"
+          ]
+        },
+        {
+          "subsong": 32,
+          "material_index": 31,
+          "samples": 10964,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00400"
+          ]
+        },
+        {
+          "subsong": 33,
+          "material_index": 32,
+          "samples": 506938,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00100_edit"
+          ]
+        },
+        {
+          "subsong": 34,
+          "material_index": 33,
+          "samples": 111771,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS030_S00500_edit"
+          ]
+        }
+      ]
+    },
+    {
+      "source": {
+        "chunk": "pakchunk1-WindowsNoEditor",
+        "path": "Sounds/Voice_NE/CS/VO_A_180_CS_100/SWAV_VO_A_180_CS_100.uexp",
+        "kind": "voice",
+        "language": "en"
+      },
+      "bank_sha256": "b4244aa12d1eb299ee720a3c90ba4216166871c4143fccf30b478ed184fa6fa6",
+      "streams": [
+        {
+          "subsong": 1,
+          "material_index": 0,
+          "samples": 625779,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_UN00503_05_a0"
+          ]
+        },
+        {
+          "subsong": 2,
+          "material_index": 1,
+          "samples": 63767,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_UN00503_04_a0"
+          ]
+        },
+        {
+          "subsong": 3,
+          "material_index": 2,
+          "samples": 151820,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00900"
+          ]
+        },
+        {
+          "subsong": 4,
+          "material_index": 3,
+          "samples": 102245,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00800"
+          ]
+        },
+        {
+          "subsong": 5,
+          "material_index": 4,
+          "samples": 128874,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00700"
+          ]
+        },
+        {
+          "subsong": 6,
+          "material_index": 5,
+          "samples": 112574,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00600"
+          ]
+        },
+        {
+          "subsong": 7,
+          "material_index": 6,
+          "samples": 160627,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00500"
+          ]
+        },
+        {
+          "subsong": 8,
+          "material_index": 7,
+          "samples": 94845,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00400"
+          ]
+        },
+        {
+          "subsong": 9,
+          "material_index": 8,
+          "samples": 99191,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_UN00503_03_a0"
+          ]
+        },
+        {
+          "subsong": 10,
+          "material_index": 9,
+          "samples": 48498,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All05"
+          ]
+        },
+        {
+          "subsong": 11,
+          "material_index": 10,
+          "samples": 287650,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_UN00503_02_a0"
+          ]
+        },
+        {
+          "subsong": 12,
+          "material_index": 11,
+          "samples": 91170,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All04"
+          ]
+        },
+        {
+          "subsong": 13,
+          "material_index": 12,
+          "samples": 154477,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00300"
+          ]
+        },
+        {
+          "subsong": 14,
+          "material_index": 13,
+          "samples": 163138,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00200"
+          ]
+        },
+        {
+          "subsong": 15,
+          "material_index": 14,
+          "samples": 35255,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All03"
+          ]
+        },
+        {
+          "subsong": 16,
+          "material_index": 15,
+          "samples": 49969,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All02"
+          ]
+        },
+        {
+          "subsong": 17,
+          "material_index": 16,
+          "samples": 426665,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All01"
+          ]
+        },
+        {
+          "subsong": 18,
+          "material_index": 17,
+          "samples": 178808,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00100"
+          ]
+        },
+        {
+          "subsong": 19,
+          "material_index": 18,
+          "samples": 195429,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_S00000"
+          ]
+        },
+        {
+          "subsong": 20,
+          "material_index": 19,
+          "samples": 492502,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_UN10101_00_a0"
+          ]
+        },
+        {
+          "subsong": 21,
+          "material_index": 20,
+          "samples": 754803,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_UN00503_01_a0"
+          ]
+        },
+        {
+          "subsong": 22,
+          "material_index": 21,
+          "samples": 203008,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_UN00503_00_a0"
+          ]
+        },
+        {
+          "subsong": 23,
+          "material_index": 22,
+          "samples": 167675,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All08"
+          ]
+        },
+        {
+          "subsong": 24,
+          "material_index": 23,
+          "samples": 36808,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All07"
+          ]
+        },
+        {
+          "subsong": 25,
+          "material_index": 24,
+          "samples": 145614,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All06"
+          ]
+        },
+        {
+          "subsong": 26,
+          "material_index": 25,
+          "samples": 84652,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_UN00542_00_a0"
+          ]
+        },
+        {
+          "subsong": 27,
+          "material_index": 26,
+          "samples": 327380,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_UN00503_08_a0"
+          ]
+        },
+        {
+          "subsong": 28,
+          "material_index": 27,
+          "samples": 91170,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All04_P001"
+          ]
+        },
+        {
+          "subsong": 29,
+          "material_index": 28,
+          "samples": 145614,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All06_P001"
+          ]
+        },
+        {
+          "subsong": 30,
+          "material_index": 29,
+          "samples": 36808,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All07_P001"
+          ]
+        },
+        {
+          "subsong": 31,
+          "material_index": 30,
+          "samples": 167675,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A180CS100_E00000_All08_P001"
+          ]
+        }
+      ]
+    },
+    {
+      "source": {
+        "chunk": "pakchunk1-WindowsNoEditor",
+        "path": "Sounds/Voice_NE/CS/VO_B_160_CS_090/SWAV_VO_B_160_CS_090.uexp",
+        "kind": "voice",
+        "language": "en"
+      },
+      "bank_sha256": "11c0d52c04ad8374d4e37239f79ff1aecb4ca44ffe43f162d49bacb57205d15a",
+      "streams": [
+        {
+          "subsong": 1,
+          "material_index": 0,
+          "samples": 55140,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All08"
+          ]
+        },
+        {
+          "subsong": 2,
+          "material_index": 1,
+          "samples": 77927,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All07"
+          ]
+        },
+        {
+          "subsong": 3,
+          "material_index": 2,
+          "samples": 48498,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All06"
+          ]
+        },
+        {
+          "subsong": 4,
+          "material_index": 3,
+          "samples": 49096,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All05"
+          ]
+        },
+        {
+          "subsong": 5,
+          "material_index": 4,
+          "samples": 108828,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All04"
+          ]
+        },
+        {
+          "subsong": 6,
+          "material_index": 5,
+          "samples": 91446,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All03"
+          ]
+        },
+        {
+          "subsong": 7,
+          "material_index": 6,
+          "samples": 219188,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All02"
+          ]
+        },
+        {
+          "subsong": 8,
+          "material_index": 7,
+          "samples": 498767,
+          "sample_rate": 44100,
+          "channels": 2,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All01"
+          ]
+        },
+        {
+          "subsong": 9,
+          "material_index": 8,
+          "samples": 95786,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_S00000"
+          ]
+        },
+        {
+          "subsong": 10,
+          "material_index": 9,
+          "samples": 180922,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_S00100"
+          ]
+        },
+        {
+          "subsong": 11,
+          "material_index": 10,
+          "samples": 69741,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_S00200"
+          ]
+        },
+        {
+          "subsong": 12,
+          "material_index": 11,
+          "samples": 46265,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_S00300"
+          ]
+        },
+        {
+          "subsong": 13,
+          "material_index": 12,
+          "samples": 48556,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_S00500"
+          ]
+        },
+        {
+          "subsong": 14,
+          "material_index": 13,
+          "samples": 103047,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_S00400"
+          ]
+        },
+        {
+          "subsong": 15,
+          "material_index": 14,
+          "samples": 19259,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_UN10101_04_a5"
+          ]
+        },
+        {
+          "subsong": 16,
+          "material_index": 15,
+          "samples": 18035,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_UN10101_04_a3"
+          ]
+        },
+        {
+          "subsong": 17,
+          "material_index": 16,
+          "samples": 18395,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_UN10101_04_a2"
+          ]
+        },
+        {
+          "subsong": 18,
+          "material_index": 17,
+          "samples": 65381,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_UN10501_05_a0"
+          ]
+        },
+        {
+          "subsong": 19,
+          "material_index": 18,
+          "samples": 498767,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All01_P001"
+          ]
+        },
+        {
+          "subsong": 20,
+          "material_index": 19,
+          "samples": 219188,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All02_P001"
+          ]
+        },
+        {
+          "subsong": 21,
+          "material_index": 20,
+          "samples": 91446,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All03_P001"
+          ]
+        },
+        {
+          "subsong": 22,
+          "material_index": 21,
+          "samples": 108828,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All04_P001"
+          ]
+        },
+        {
+          "subsong": 23,
+          "material_index": 22,
+          "samples": 48498,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All06_P001"
+          ]
+        },
+        {
+          "subsong": 24,
+          "material_index": 23,
+          "samples": 55140,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "B160CS090_E00000_All08_P001"
+          ]
+        }
+      ]
+    },
+    {
+      "source": {
+        "chunk": "pakchunk1-WindowsNoEditor",
+        "path": "Sounds/Voice_NE/CS/VO_C_010_CS_120/SWAV_VO_C_010_CS_120.uexp",
+        "kind": "voice",
+        "language": "en"
+      },
+      "bank_sha256": "33f1358a8e64d87501c233e25796852168bb07aee98e8da9ed2a18082a6d9b51",
+      "streams": [
+        {
+          "subsong": 1,
+          "material_index": 0,
+          "samples": 396016,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C010CS120_S00400"
+          ]
+        },
+        {
+          "subsong": 2,
+          "material_index": 1,
+          "samples": 211830,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C010CS120_S00300"
+          ]
+        },
+        {
+          "subsong": 3,
+          "material_index": 2,
+          "samples": 111770,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C010CS120_S00200"
+          ]
+        },
+        {
+          "subsong": 4,
+          "material_index": 3,
+          "samples": 201530,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C010CS120_S00100"
+          ]
+        },
+        {
+          "subsong": 5,
+          "material_index": 4,
+          "samples": 155127,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C010CS120_S00000"
+          ]
+        }
+      ]
+    },
+    {
+      "source": {
+        "chunk": "pakchunk1-WindowsNoEditor",
+        "path": "Sounds/Voice_NE/CS/VO_C_300_CS_030/SWAV_VO_C_300_CS_030.uexp",
+        "kind": "voice",
+        "language": "en"
+      },
+      "bank_sha256": "3985aff32370ec53ee5516c29ba83dcc86eb81268a8d8a4711ff83c1398115c6",
+      "streams": [
+        {
+          "subsong": 1,
+          "material_index": 0,
+          "samples": 123549,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10101_00_a0"
+          ]
+        },
+        {
+          "subsong": 2,
+          "material_index": 1,
+          "samples": 13728,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10101_01_a0"
+          ]
+        },
+        {
+          "subsong": 3,
+          "material_index": 2,
+          "samples": 91288,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10101_02_a0"
+          ]
+        },
+        {
+          "subsong": 4,
+          "material_index": 3,
+          "samples": 143094,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10101_03_a0"
+          ]
+        },
+        {
+          "subsong": 5,
+          "material_index": 4,
+          "samples": 27508,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10101_04_a0"
+          ]
+        },
+        {
+          "subsong": 6,
+          "material_index": 5,
+          "samples": 46555,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10301_00_a0"
+          ]
+        },
+        {
+          "subsong": 7,
+          "material_index": 6,
+          "samples": 161045,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10301_01_a0"
+          ]
+        },
+        {
+          "subsong": 8,
+          "material_index": 7,
+          "samples": 39856,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10301_02_a0"
+          ]
+        },
+        {
+          "subsong": 9,
+          "material_index": 8,
+          "samples": 90052,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10301_03_a0"
+          ]
+        },
+        {
+          "subsong": 10,
+          "material_index": 9,
+          "samples": 21019,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10301_04_a0"
+          ]
+        },
+        {
+          "subsong": 11,
+          "material_index": 10,
+          "samples": 25828,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10301_05_a0"
+          ]
+        },
+        {
+          "subsong": 12,
+          "material_index": 11,
+          "samples": 30079,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10301_06_a0"
+          ]
+        },
+        {
+          "subsong": 13,
+          "material_index": 12,
+          "samples": 24871,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10301_07_a0"
+          ]
+        },
+        {
+          "subsong": 14,
+          "material_index": 13,
+          "samples": 41567,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10301_08_a0"
+          ]
+        },
+        {
+          "subsong": 15,
+          "material_index": 14,
+          "samples": 48095,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_00_a0"
+          ]
+        },
+        {
+          "subsong": 16,
+          "material_index": 15,
+          "samples": 253174,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_01_a0"
+          ]
+        },
+        {
+          "subsong": 17,
+          "material_index": 16,
+          "samples": 16498,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_02_a0"
+          ]
+        },
+        {
+          "subsong": 18,
+          "material_index": 17,
+          "samples": 94669,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_03_a0"
+          ]
+        },
+        {
+          "subsong": 19,
+          "material_index": 18,
+          "samples": 169252,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_04_a0"
+          ]
+        },
+        {
+          "subsong": 20,
+          "material_index": 19,
+          "samples": 23937,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_05_a0"
+          ]
+        },
+        {
+          "subsong": 21,
+          "material_index": 20,
+          "samples": 29443,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_06_a0"
+          ]
+        },
+        {
+          "subsong": 22,
+          "material_index": 21,
+          "samples": 37965,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_07_a0"
+          ]
+        },
+        {
+          "subsong": 23,
+          "material_index": 22,
+          "samples": 16995,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_08_a0"
+          ]
+        },
+        {
+          "subsong": 24,
+          "material_index": 23,
+          "samples": 46681,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_E00000_UN10401_09_a0"
+          ]
+        },
+        {
+          "subsong": 25,
+          "material_index": 24,
+          "samples": 192590,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00100"
+          ]
+        },
+        {
+          "subsong": 26,
+          "material_index": 25,
+          "samples": 280943,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00200"
+          ]
+        },
+        {
+          "subsong": 27,
+          "material_index": 26,
+          "samples": 259911,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00300"
+          ]
+        },
+        {
+          "subsong": 28,
+          "material_index": 27,
+          "samples": 171459,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00400"
+          ]
+        },
+        {
+          "subsong": 29,
+          "material_index": 28,
+          "samples": 162958,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00500"
+          ]
+        },
+        {
+          "subsong": 30,
+          "material_index": 29,
+          "samples": 140286,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00600"
+          ]
+        },
+        {
+          "subsong": 31,
+          "material_index": 30,
+          "samples": 193373,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00700"
+          ]
+        },
+        {
+          "subsong": 32,
+          "material_index": 31,
+          "samples": 222891,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00800"
+          ]
+        },
+        {
+          "subsong": 33,
+          "material_index": 32,
+          "samples": 262070,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00900"
+          ]
+        },
+        {
+          "subsong": 34,
+          "material_index": 33,
+          "samples": 317689,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01000"
+          ]
+        },
+        {
+          "subsong": 35,
+          "material_index": 34,
+          "samples": 171377,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01100"
+          ]
+        },
+        {
+          "subsong": 36,
+          "material_index": 35,
+          "samples": 10964,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01200"
+          ]
+        },
+        {
+          "subsong": 37,
+          "material_index": 36,
+          "samples": 219791,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01400"
+          ]
+        },
+        {
+          "subsong": 38,
+          "material_index": 37,
+          "samples": 194345,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01500"
+          ]
+        },
+        {
+          "subsong": 39,
+          "material_index": 38,
+          "samples": 268210,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01600"
+          ]
+        },
+        {
+          "subsong": 40,
+          "material_index": 39,
+          "samples": 161395,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01700"
+          ]
+        },
+        {
+          "subsong": 41,
+          "material_index": 40,
+          "samples": 266021,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01800"
+          ]
+        },
+        {
+          "subsong": 42,
+          "material_index": 41,
+          "samples": 177990,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01900"
+          ]
+        },
+        {
+          "subsong": 43,
+          "material_index": 42,
+          "samples": 200569,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02000"
+          ]
+        },
+        {
+          "subsong": 44,
+          "material_index": 43,
+          "samples": 215023,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02100"
+          ]
+        },
+        {
+          "subsong": 45,
+          "material_index": 44,
+          "samples": 180966,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02200"
+          ]
+        },
+        {
+          "subsong": 46,
+          "material_index": 45,
+          "samples": 195523,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02300"
+          ]
+        },
+        {
+          "subsong": 47,
+          "material_index": 46,
+          "samples": 324803,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02400"
+          ]
+        },
+        {
+          "subsong": 48,
+          "material_index": 47,
+          "samples": 126646,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02500"
+          ]
+        },
+        {
+          "subsong": 49,
+          "material_index": 48,
+          "samples": 153087,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02600"
+          ]
+        },
+        {
+          "subsong": 50,
+          "material_index": 49,
+          "samples": 182250,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02700"
+          ]
+        },
+        {
+          "subsong": 51,
+          "material_index": 50,
+          "samples": 202651,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02800"
+          ]
+        },
+        {
+          "subsong": 52,
+          "material_index": 51,
+          "samples": 167626,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S02900"
+          ]
+        },
+        {
+          "subsong": 53,
+          "material_index": 52,
+          "samples": 167676,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03000"
+          ]
+        },
+        {
+          "subsong": 54,
+          "material_index": 53,
+          "samples": 156704,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03100"
+          ]
+        },
+        {
+          "subsong": 55,
+          "material_index": 54,
+          "samples": 201223,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03200"
+          ]
+        },
+        {
+          "subsong": 56,
+          "material_index": 55,
+          "samples": 290594,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03300"
+          ]
+        },
+        {
+          "subsong": 57,
+          "material_index": 56,
+          "samples": 156095,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03400"
+          ]
+        },
+        {
+          "subsong": 58,
+          "material_index": 57,
+          "samples": 169638,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03500"
+          ]
+        },
+        {
+          "subsong": 59,
+          "material_index": 58,
+          "samples": 280762,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03600"
+          ]
+        },
+        {
+          "subsong": 60,
+          "material_index": 59,
+          "samples": 221269,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03700"
+          ]
+        },
+        {
+          "subsong": 61,
+          "material_index": 60,
+          "samples": 210407,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03800"
+          ]
+        },
+        {
+          "subsong": 62,
+          "material_index": 61,
+          "samples": 178296,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S03900"
+          ]
+        },
+        {
+          "subsong": 63,
+          "material_index": 62,
+          "samples": 199389,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S04000"
+          ]
+        },
+        {
+          "subsong": 64,
+          "material_index": 63,
+          "samples": 228202,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S04100"
+          ]
+        },
+        {
+          "subsong": 65,
+          "material_index": 64,
+          "samples": 341257,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S04200"
+          ]
+        },
+        {
+          "subsong": 66,
+          "material_index": 65,
+          "samples": 352577,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S04300"
+          ]
+        },
+        {
+          "subsong": 67,
+          "material_index": 66,
+          "samples": 207446,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S00000"
+          ]
+        },
+        {
+          "subsong": 68,
+          "material_index": 67,
+          "samples": 351351,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01200_edit"
+          ]
+        },
+        {
+          "subsong": 69,
+          "material_index": 68,
+          "samples": 10964,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS030_S01300"
+          ]
+        }
+      ]
+    },
+    {
+      "source": {
+        "chunk": "pakchunk1-WindowsNoEditor",
+        "path": "Sounds/Voice_NE/CS/VO_C_300_CS_050/SWAV_VO_C_300_CS_050.uexp",
+        "kind": "voice",
+        "language": "en"
+      },
+      "bank_sha256": "5541bee7aa34f1c7cd8fcef7728c7ba6965a849fbc97c689e6796f4b85e7466f",
+      "streams": [
+        {
+          "subsong": 1,
+          "material_index": 0,
+          "samples": 32149,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS050_S00000"
+          ]
+        },
+        {
+          "subsong": 2,
+          "material_index": 1,
+          "samples": 126236,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS050_S00100"
+          ]
+        },
+        {
+          "subsong": 3,
+          "material_index": 2,
+          "samples": 255719,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS050_S00200"
+          ]
+        },
+        {
+          "subsong": 4,
+          "material_index": 3,
+          "samples": 236506,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "C300CS050_E00000_LOC0097_00_a0"
+          ]
+        }
+      ]
+    },
+    {
+      "source": {
+        "chunk": "pakchunk0-WindowsNoEditor",
+        "path": "JackGame/Content/Sounds/Voice_NE/CS/VO_A_010_CS_020/SWAV_VO_A_010_CS_020.uexp",
+        "kind": "voice_extra",
+        "language": "en"
+      },
+      "bank_sha256": "3f19212e086c9350bb41c00dc1d1b4392ffdedc7ccef4199efae838395b1ed54",
+      "streams": [
+        {
+          "subsong": 1,
+          "material_index": 0,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 2,
+          "material_index": 1,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 3,
+          "material_index": 2,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 4,
+          "material_index": 3,
+          "samples": 48000,
+          "sample_rate": 48000,
+          "channels": 1,
+          "codec": "Silence",
+          "assets": []
+        },
+        {
+          "subsong": 5,
+          "material_index": 4,
+          "samples": 427205,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_UN00002_00_a0"
+          ]
+        },
+        {
+          "subsong": 6,
+          "material_index": 5,
+          "samples": 613542,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_UN00004_00_a0"
+          ]
+        },
+        {
+          "subsong": 7,
+          "material_index": 6,
+          "samples": 27456,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_UN00004_01_a0"
+          ]
+        },
+        {
+          "subsong": 8,
+          "material_index": 7,
+          "samples": 702049,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_UN00004_02_a0"
+          ]
+        },
+        {
+          "subsong": 9,
+          "material_index": 8,
+          "samples": 34531,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_UN00004_03_a0"
+          ]
+        },
+        {
+          "subsong": 10,
+          "material_index": 9,
+          "samples": 92283,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_UN00012_00_a0"
+          ]
+        },
+        {
+          "subsong": 11,
+          "material_index": 10,
+          "samples": 579800,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_UN00012_02_a0"
+          ]
+        },
+        {
+          "subsong": 12,
+          "material_index": 11,
+          "samples": 56665,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_UN00012_03_a0"
+          ]
+        },
+        {
+          "subsong": 13,
+          "material_index": 12,
+          "samples": 87960,
+          "sample_rate": 44100,
+          "channels": 1,
+          "codec": "CRI HCA",
+          "assets": [
+            "A010CS010_E00000_UN00012_04_a0"
+          ]
+        }
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "number": 1,
+      "frames": 4392,
+      "events": []
+    },
+    {
+      "number": 2,
+      "frames": 7059,
+      "events": [
+        {
+          "asset": "A010CS010_E00000_LOC0074_00_a0",
+          "time": 5.833333492279053,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_LOC0100_00_a0",
+          "time": 14.500000953674316,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_LOC0099_00_a0",
+          "time": 15.066667556762695,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_LOC0098_00_a0",
+          "time": 26.033334732055664,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_S00000",
+          "time": 70.20000457763672,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS010_S00100",
+          "time": 72.36666870117188,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS010_S00200",
+          "time": 74.73333740234375,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS010_S00300",
+          "time": 78.60000610351562,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_UN00002_00_a0",
+          "time": 85.60000610351562,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_UN00012_00_a0",
+          "time": 89.36666870117188,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_UN00004_00_a0",
+          "time": 116.8666763305664,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_UN00012_02_a0",
+          "time": 117.8666763305664,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_UN00012_03_a0",
+          "time": 137.20001220703125,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_UN00012_04_a0",
+          "time": 139.5,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_UN00004_01_a0",
+          "time": 141.20001220703125,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_UN00004_02_a0",
+          "time": 148.06668090820312,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS010_E00000_UN00004_03_a0",
+          "time": 165.1333465576172,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS030_S00000",
+          "time": 187.20001220703125,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS030_E00000_UN00002_01_a0",
+          "time": 188.06668090820312,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS030_E00000_UN00018_00_a0",
+          "time": 189.4666748046875,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS030_S00100_edit",
+          "time": 194.23333740234375,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS030_S00500_edit",
+          "time": 205.56668090820312,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS030_S00600",
+          "time": 206.6333465576172,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS030_E00000_UN00002_02_a0",
+          "time": 208.10000610351562,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A010CS030_S00700",
+          "time": 209.80001831054688,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS030_S00800",
+          "time": 211.86668395996094,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS030_S00900",
+          "time": 214.60000610351562,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS030_S01000",
+          "time": 217.6333465576172,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A010CS030_S01100",
+          "time": 222.30001831054688,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "frames": 4686,
+      "events": [
+        {
+          "asset": "A180CS100_E00000_UN00503_00_a0",
+          "time": 3.633333444595337,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_UN00503_01_a0",
+          "time": 14.2333345413208,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_UN10101_00_a0",
+          "time": 18.066667556762695,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_S00000",
+          "time": 35.06666946411133,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All01",
+          "time": 40.80000305175781,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_S00100",
+          "time": 43.26667022705078,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All02",
+          "time": 49.66666793823242,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All03",
+          "time": 58.70000457763672,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_S00200",
+          "time": 64.83333587646484,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A180CS100_S00300",
+          "time": 69.30000305175781,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All04",
+          "time": 75.60000610351562,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All04_P001",
+          "time": 75.60000610351562,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_UN00503_02_a0",
+          "time": 80.03334045410156,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All05",
+          "time": 82.03334045410156,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_UN00503_03_a0",
+          "time": 88.26667022705078,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All06",
+          "time": 89.66667175292969,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All06_P001",
+          "time": 89.66667175292969,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_S00400",
+          "time": 89.80000305175781,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A180CS100_S00500",
+          "time": 94.03334045410156,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_UN00503_04_a0",
+          "time": 99.03334045410156,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_S00600",
+          "time": 101.50000762939453,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All07",
+          "time": 104.70000457763672,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All07_P001",
+          "time": 104.70000457763672,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_UN00503_05_a0",
+          "time": 105.36666870117188,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_UN00503_08_a0",
+          "time": 119.53334045410156,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All08",
+          "time": 131.36666870117188,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_All08_P001",
+          "time": 131.36666870117188,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_S00700",
+          "time": 132.2666778564453,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A180CS100_E00000_UN00542_00_a0",
+          "time": 137.9666748046875,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "A180CS100_S00800",
+          "time": 139.90000915527344,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "A180CS100_S00900",
+          "time": 142.7666778564453,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "frames": 3408,
+      "events": [
+        {
+          "asset": "B160CS090_E00000_All01",
+          "time": 7.6666669845581055,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All01_P001",
+          "time": 7.6666669845581055,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All02",
+          "time": 14.100000381469727,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All02_P001",
+          "time": 14.100000381469727,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All03",
+          "time": 18.96666717529297,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All03_P001",
+          "time": 18.96666717529297,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All04",
+          "time": 25.63333511352539,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All04_P001",
+          "time": 25.63333511352539,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All05",
+          "time": 28.166667938232422,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_S00000",
+          "time": 41.46666717529297,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All06",
+          "time": 43.366668701171875,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All06_P001",
+          "time": 43.366668701171875,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_S00100",
+          "time": 46.5333366394043,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All07",
+          "time": 49.900001525878906,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_S00200",
+          "time": 54.333335876464844,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All08",
+          "time": 55.466670989990234,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_All08_P001",
+          "time": 55.466670989990234,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_UN10101_04_a2",
+          "time": 57.63333511352539,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_S00300",
+          "time": 62.966670989990234,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_UN10101_04_a3",
+          "time": 63.4333381652832,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_UN10101_04_a5",
+          "time": 67.0666732788086,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_E00000_UN10501_05_a0",
+          "time": 70.4000015258789,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "B160CS090_S00400",
+          "time": 72.13333892822266,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "B160CS090_S00500",
+          "time": 75.4000015258789,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "frames": 1657,
+      "events": [
+        {
+          "asset": "C010CS120_S00000",
+          "time": 1.433333396911621,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C010CS120_S00100",
+          "time": 5.266666889190674,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C010CS120_S00200",
+          "time": 10.166666984558105,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C010CS120_S00300",
+          "time": 13.033333778381348,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C010CS120_S00400",
+          "time": 18.166667938232422,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "frames": 8824,
+      "events": [
+        {
+          "asset": "C300CS030_E00000_UN10101_00_a0",
+          "time": 2.4666666984558105,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10101_01_a0",
+          "time": 11.766667366027832,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10401_00_a0",
+          "time": 11.866667747497559,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10401_01_a0",
+          "time": 15.333333969116211,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10101_02_a0",
+          "time": 16.96666717529297,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10301_00_a0",
+          "time": 17.0,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10301_01_a0",
+          "time": 20.500001907348633,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10101_03_a0",
+          "time": 20.600000381469727,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10401_02_a0",
+          "time": 23.666667938232422,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10401_03_a0",
+          "time": 32.333335876464844,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10301_02_a0",
+          "time": 32.5,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_E00000_UN10101_04_a0",
+          "time": 32.63333511352539,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_S00000",
+          "time": 34.96666717529297,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S00100",
+          "time": 38.80000305175781,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S00200",
+          "time": 42.80000305175781,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S00300",
+          "time": 48.26667022705078,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S00400",
+          "time": 53.5333366394043,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S00500",
+          "time": 56.76667022705078,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S00600",
+          "time": 60.60000228881836,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S00700",
+          "time": 63.76667022705078,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S00800",
+          "time": 70.0,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S00900",
+          "time": 74.20000457763672,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01000",
+          "time": 80.16667175292969,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01100",
+          "time": 87.70000457763672,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01200_edit",
+          "time": 92.83333587646484,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS030_S01200",
+          "time": 92.9666748046875,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01300",
+          "time": 97.60000610351562,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01400",
+          "time": 108.80000305175781,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01500",
+          "time": 113.16667175292969,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01600",
+          "time": 124.26667022705078,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01700",
+          "time": 129.93333435058594,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01800",
+          "time": 133.60000610351562,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S01900",
+          "time": 141.2666778564453,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02000",
+          "time": 145.33334350585938,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02100",
+          "time": 149.50001525878906,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02200",
+          "time": 154.36666870117188,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02300",
+          "time": 159.53334045410156,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02400",
+          "time": 164.1666717529297,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02500",
+          "time": 180.933349609375,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02600",
+          "time": 183.60000610351562,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02700",
+          "time": 187.23333740234375,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02800",
+          "time": 191.70001220703125,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S02900",
+          "time": 195.03334045410156,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03000",
+          "time": 198.86668395996094,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03100",
+          "time": 202.60000610351562,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03200",
+          "time": 206.83334350585938,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03300",
+          "time": 212.36668395996094,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03400",
+          "time": 219.53334045410156,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03500",
+          "time": 223.6333465576172,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03600",
+          "time": 227.60000610351562,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03700",
+          "time": 233.50001525878906,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03800",
+          "time": 237.433349609375,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S03900",
+          "time": 241.36668395996094,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S04000",
+          "time": 245.06668090820312,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S04100",
+          "time": 249.90000915527344,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S04200",
+          "time": 257.13336181640625,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS030_S04300",
+          "time": 272.3333435058594,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "frames": 1942,
+      "events": [
+        {
+          "asset": "C300CS050_S00000",
+          "time": 43.333335876464844,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS050_E00000_LOC0097_00_a0",
+          "time": 44.500003814697266,
+          "volume": 1.0,
+          "kind": "sound_tracks"
+        },
+        {
+          "asset": "C300CS050_S00100",
+          "time": 46.333335876464844,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        },
+        {
+          "asset": "C300CS050_S00200",
+          "time": 50.0333366394043,
+          "volume": 1.0,
+          "kind": "caption_tracks"
+        }
+      ]
+    }
+  ],
+  "verified_silent_assets": [
+    "C300CS030_S01200",
+    "C300CS030_S01300"
+  ]
+}
