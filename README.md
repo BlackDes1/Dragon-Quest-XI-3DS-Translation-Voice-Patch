@@ -1,4 +1,4 @@
-# DQXI Mod Workshop
+# DQXI 3DS Patcher
 
 **English text, voice and movie patch builder for the Japanese Nintendo 3DS version of DRAGON QUEST XI.**
 
