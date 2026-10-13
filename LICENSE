@@ -1,6 +1,12 @@
 MIT License
 
-Copyright (c) 2026 BlackDes1
+Copyright (c) 2026 DQXI Mod Werkstatt contributors
+
+This license applies only to original source code authored for the DQXI Mod
+Workshop. It does not apply to game-derived patch payloads, translation data,
+artwork deltas, third-party software, or other material identified in
+COPYRIGHT.md and tools/THIRD_PARTY_NOTICES.md. Those materials remain subject
+to their respective rights and license terms.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
