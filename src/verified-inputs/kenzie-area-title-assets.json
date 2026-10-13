@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "upstream_release": "0.7.0",
+  "upstream_commit": "ea515509d0ab082320bedfbb27602ae2b655c956",
+  "upstream_manifest_sha256": "b6523cfe3bf5a2bc95a5d4919b2e0f41ae8165222901996eeb8a44179eda1b05",
+  "files": [
+    {
+      "path": "romfs/ui/location/location_b016_001a.bch",
+      "payload": "0001.dqdelta",
+      "source_sha256": "fe95af9061f602c2886d352a619230885d099804fe38f63b4dea42ad33417246",
+      "target_sha256": "afe77823ddc69e2bbd4b2aac6c1d9b307137151acac6ffe785ca7c17f9e96d4c",
+      "payload_sha256": "3a8df470bd7de672de809988352c9e02ce02bff4dd5ff2f8437e88f93f0ddbb9",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b021_001a.bch",
+      "payload": "0002.dqdelta",
+      "source_sha256": "1f708ff3a98f30a68ac7da3637f9a08067e719031da8fe69cc65b07fcae3a7fd",
+      "target_sha256": "416131a5d1899291f8a8c6bd1720e84524a95666e56c95f91ef9f6836c5bd7f6",
+      "payload_sha256": "9042dd1bc75acd5614dc1c5a48400b29914a51622b5a1792cb532ecc61dd3743",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b002_001a.bch",
+      "payload": "0003.dqdelta",
+      "source_sha256": "2d7197b57ff07fa0ba47e2f54ff7458f981db76ba87d00f2e1f490352917a5cb",
+      "target_sha256": "b64f0456cc390bb4a9d612b2a94c9120e0baff50dceb50b38fad0713083dafaf",
+      "payload_sha256": "4125cb2cc3f5b3ee7a5da18e8db21a7eb7d148d7474fc94096a494969123ab04",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b002_002a.bch",
+      "payload": "0004.dqdelta",
+      "source_sha256": "22153e1558a332402f2973c0eb7782ce5ac94aefa937d6d168f07e35fbec26f5",
+      "target_sha256": "ea4d321c029035e0f1e986a2b1381b6bc1a684e31e6c5c44240e0b47f7522c1d",
+      "payload_sha256": "07e57132cb2883b649e236e3dc6b7832ea890cbb651a8f2b5115af01bc28131d",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b005_001a.bch",
+      "payload": "0005.dqdelta",
+      "source_sha256": "6fe5d6add3b47d72fc22f8ac080cc40b292a7f2b74e8f0875b8968c21bf1ca42",
+      "target_sha256": "c8b8c57f43ca9106dc0e325fa89ff232bf25462f156ca847c2e3cd9106841bc6",
+      "payload_sha256": "1d95b964d047b108b759be9effdf68ab746d442b4274d55f6dce5ea8c4cecf8f",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b009_001a.bch",
+      "payload": "0006.dqdelta",
+      "source_sha256": "de1a99beaeccf35220ab3cdc3cb8b9d824fdf5e4d562ea6f2fb6c2e034390985",
+      "target_sha256": "6f3821558257ffdd4a289c66e7e8cf26d28dabeff8601c97e0d66224dbfb6f20",
+      "payload_sha256": "a8faa86131e9ac1f6ccf58bfcafc34ddcba1fc82652d8832bea76b16ae2208c9",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b011_001a.bch",
+      "payload": "0007.dqdelta",
+      "source_sha256": "79aca47c62fb16378f780c100486d4d88614760e90e3df62ac7ab00d89a5e17c",
+      "target_sha256": "31aa80919cf91a6701b848573e6f247d9b3ff633fc59a6499882ddd48a16a1be",
+      "payload_sha256": "c7a37ddb4a3a301eb143de9f890151f5633280dd6f176df50ff901130b882bab",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b012_001a.bch",
+      "payload": "0008.dqdelta",
+      "source_sha256": "c8039cea560431c29350c7215fbdd1bba43c456ae47c3905c3ff25a5c152de8e",
+      "target_sha256": "9a128ed69133acfb07a7c798f418c889c21c61d86b738808faf3ea16e18b6146",
+      "payload_sha256": "d34948d8836e2eb559134c312e15304676c097ec9292f192fcd8f1a83be4016c",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b014_001a.bch",
+      "payload": "0009.dqdelta",
+      "source_sha256": "1e0fbc38f9460a22a9e4bd2097ca90ffa1c967225a8d675ba2ac8f03ce61ac9f",
+      "target_sha256": "89bd1d7873e5856dc98c185d93d193d1cb1c4f1fbd9021470f2b73f0abf76a40",
+      "payload_sha256": "4d01a8c5b9f044beb446bb8348be675838126248ddd31a01e9b75a0f1f5bf7e5",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b015_001a.bch",
+      "payload": "0010.dqdelta",
+      "source_sha256": "ab3edd352daf4f58c798ea7c23f42e81003de1f123b91708e84f7c87a32da5ba",
+      "target_sha256": "95225e3d38a22ae600065a1c4f32f06391eba7e715f6ce5c3cc76d260e7a6678",
+      "payload_sha256": "527a197e8635d41c4c20cf2500d504ce8f91ec88f3d0f3d4914814a08ccca061",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b017_001a.bch",
+      "payload": "0011.dqdelta",
+      "source_sha256": "73f93befcb8e293beccd676c1897842ffd2e22de702fb141a10bb764de41d781",
+      "target_sha256": "0ae6b4866b67feb98ee10bc5bbf319e635c4c39b26a5e3d25c2f4365130fc420",
+      "payload_sha256": "f14e87a2c3145b0c22d9647e3a02b969a0c0f8dd797569595280694d3bdb89e5",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b018_001a.bch",
+      "payload": "0012.dqdelta",
+      "source_sha256": "1cde7cf4e81c927da5681cf6afa7c8fb5fff7d3a887809abcd179accd6aea07d",
+      "target_sha256": "a5aceefa02486e37f31f4b407ecb3fd97d773cbd08f3779fbb71ca38c8650d82",
+      "payload_sha256": "c5ddbf902cc321d7a76bf57f62cad2af96fb7383192c5acd8d70b0ace2384fae",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b019_001a.bch",
+      "payload": "0013.dqdelta",
+      "source_sha256": "3b4d50e99fdf4de6c0d1a3dad0184c35cf4c20750967072e1bbad0c25fe3ffc1",
+      "target_sha256": "dee3854d26fb157bbb3892ff9e2f8dc00dfdf700f7082d9daf2ee57ddd688a96",
+      "payload_sha256": "dad6bd651de534b9b8c2bae60e8d816f0112a0a0d15f5d11ca9180aac33489d0",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b020_001a.bch",
+      "payload": "0014.dqdelta",
+      "source_sha256": "4a411d44ed6723819f4dca31c51e92657a503a2c372b972fde9d16a408c16a68",
+      "target_sha256": "8a21fd1cf4bd383598815e3d031584922f6b50626cc5d8d683aa9acac817674a",
+      "payload_sha256": "8dd1c5e5b5108a79570d9b0c3917c5388331bb929f2a3987143192f767da330b",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b022_001a.bch",
+      "payload": "0015.dqdelta",
+      "source_sha256": "eb0360634b5bb3ee45c7bb51c6046bf06718979bcd9562e2e005f292a4595817",
+      "target_sha256": "7c7ad89ff54ee32b31ed8e631ebb118e8078d6f59806920a69b70763ed20f953",
+      "payload_sha256": "ca6a898b81522ebfd670a98d06f2324e638f40ba7f32f151d9b8d214135db867",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_b023_001a.bch",
+      "payload": "0016.dqdelta",
+      "source_sha256": "d2e3d4cf58c40da27a8a04c76fa0e54137489d061dca20765a8e8617dcfa80eb",
+      "target_sha256": "0c19e580c189213b1d22c6efbe5cea2354f13c302e19d8e385f7e66a2da98a6d",
+      "payload_sha256": "5686d262c0f7d724b6d1803cf1cd45a00a9b65563d00bf94434ab277db5c851d",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_d002_001a.bch",
+      "payload": "0017.dqdelta",
+      "source_sha256": "275a14786f8039ab43084ca1358122bffcca926bea75ee4d075b562441bcc88f",
+      "target_sha256": "399e5c80a4c89e29df6cdc084e816b674d7ec31bb0fc0fa99af6b862d80e7a4b",
+      "payload_sha256": "266e166de78252800b9459c84cf32addc1294b3558c42bd956e81417899644f5",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_f010_001a.bch",
+      "payload": "0018.dqdelta",
+      "source_sha256": "759598c0b3ec2953b7ef0a2d9e59059a88ea0ef91625534458bdffe64f87aa8e",
+      "target_sha256": "69c59f9d779647d79b905758750439866281a368fa6928a71197578e61040a4e",
+      "payload_sha256": "29425d7e097b9d43daa39c9e4b267f4e8909707e536257fae84d821fa998a7d2",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_f010_002a.bch",
+      "payload": "0019.dqdelta",
+      "source_sha256": "e39b9b2dc829a821df0feb4ca07aa674e467197668b64be06f0a02c375a7739b",
+      "target_sha256": "4061eb42a74b1a073b298ddb2c8844fdc5f76ba64e8ad6e42f6b85d0ba228353",
+      "payload_sha256": "971fc71f3b5b9d8b6d8452d89c1185f6f01ee4768a686a043c10a484bb27773c",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_f010_003a.bch",
+      "payload": "0020.dqdelta",
+      "source_sha256": "117c0544773f0b558a1174a7b63e2c1bf1b8198ae13b801a24339ea9a82191dd",
+      "target_sha256": "f902ad71c6f9b84d612116a57c91b8613e34284bf81313b0658998eb11738458",
+      "payload_sha256": "51bca54ef0cc87db675568ac10d236c13abcae8763cb1ed9fe6b60c4e46388aa",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_f010_004a.bch",
+      "payload": "0021.dqdelta",
+      "source_sha256": "b67886e5c2babbf3b818a1be9943c7fa7e21066c21dd665b1709b23a7b7bd6f5",
+      "target_sha256": "fae7f596dc9fee475b236e6fab72783fdf5799c7d167e4d5d52525cd305df3dd",
+      "payload_sha256": "a4fa1d88875e5dc8f2adad23b712b5a8433a9f704424362a3329a65a790f5dc3",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_f010_005a.bch",
+      "payload": "0022.dqdelta",
+      "source_sha256": "9683d632a814cab94635b9302aca6b3f42b74b90edf0e753a1f22eeb1813cfa0",
+      "target_sha256": "743fd145042149cac1ae0a530551c4a5df261e4c0654b80f63fe0db7e6c51f10",
+      "payload_sha256": "80aad5ab5523c6b14d204301e3c878fc993581c95bf3b895e0ceb83414904d53",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_m001_001a.bch",
+      "payload": "0023.dqdelta",
+      "source_sha256": "ef8d5624be119f671599c59c8d9d0fc317c3e2cf1555025389442777ccc510ab",
+      "target_sha256": "c8b86624019205fef51f9291f4b06cae4bb1575db8d76d976eb0c20143e3a991",
+      "payload_sha256": "47919bc950f3c1f13d741437b131b4ae7ae7f903f821e166dcb86efeca990b7d",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_m004_001a.bch",
+      "payload": "0024.dqdelta",
+      "source_sha256": "2089e3e7e0bf9cb156718d758bca4591e45839cd78c1043801f480926e7ecc0a",
+      "target_sha256": "c80c5ff8f68ef02306d0a17ea935eb73cfc7baad7d7aa9fe0bdd2444d2025564",
+      "payload_sha256": "a98acafc1171f57fd8fd10b5635d9f0b45fddcbf4391b6bc430b45619d4464e5",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_m014_001a.bch",
+      "payload": "0025.dqdelta",
+      "source_sha256": "c5c5965ca286b7a38d4687103ab6b630a6557f6a427f9decf4c832e4ea73f010",
+      "target_sha256": "64c8059a1fc31f3aed7d57361e85e1fa0f9f67a3f815c42b815753a594ff2c4d",
+      "payload_sha256": "e9b1fe41e3588cf699f4d63489e8f5fb0ed98b68ce25953b28c510f34928e2de",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_m024_001a.bch",
+      "payload": "0026.dqdelta",
+      "source_sha256": "21c11a032adde5625780dc47b31010f1e55b72231c59e335631f4ea8c03f23e8",
+      "target_sha256": "77e8ae41166c7f4081bfa90f748ea56afdf69e4212b7a822823d68d57dc25b06",
+      "payload_sha256": "24326a3d37d3471fd1306916c7842dcfb3966aa88c90db9f2abfd52480b3cd87",
+      "source_size": 17124,
+      "target_size": 17124,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_m024_002a.bch",
+      "payload": "0027.dqdelta",
+      "source_sha256": "78c816fab7f3162cf3b1feef78a70dc4f9d5dee97a762d36e9f91b809d5e35ef",
+      "target_sha256": "1ad16677e256af164eb49ff9a1df74aaf12264d5f9e56c1ac83785c20b38e87a",
+      "payload_sha256": "ff335347b7dac8255e7811b7a1948b9a92fc4e05069dbff822fc2135c1d646de",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    },
+    {
+      "path": "romfs/ui/location/location_m025_001a.bch",
+      "payload": "0028.dqdelta",
+      "source_sha256": "df6279be4a6fd16db405cc74f0d7b4e25a84d600c0844395d061fc73567ef6d1",
+      "target_sha256": "788713354b9d0ac7e5196c2144db342659faf98c3cc98dd2bf1759e086f82557",
+      "payload_sha256": "e498f0f3fef8a6e778441d6a031b061a404c053491514e9373b21f0ecf4c3e07",
+      "source_size": 8932,
+      "target_size": 8932,
+      "target_kind": "localized_area_title_art"
+    }
+  ]
+}
